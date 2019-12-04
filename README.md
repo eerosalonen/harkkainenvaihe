@@ -1,2 +1,0 @@
-# harkkainenvaihe
-Created with CodeSandbox
